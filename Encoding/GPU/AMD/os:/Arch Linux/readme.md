@@ -4,4 +4,5 @@ AI:
 
 
 # Wiki
+https://wiki.archlinux.org/title/Hardware_video_acceleration
 https://wiki.archlinux.org/title/AMDGPU_PRO
