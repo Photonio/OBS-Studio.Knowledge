@@ -12,3 +12,7 @@ yay -S lib32-vulkan-amdgpu-pr
 yay -S amf-amdgpu-pro
 ```
 
+```Test(){
+ffmpeg -encoders
+}
+```
